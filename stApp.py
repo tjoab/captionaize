@@ -39,6 +39,7 @@ st.markdown('''<style>#MainMenu {visibility: hidden;} footer {visibility: hidden
 # Into section of Streamlit application
 st.image('resources/captionaize.png', use_column_width=True)
 st.markdown("Generate TikTok— and Instagram—tailored captions and hashtags for your videos using the power of some super creative robots up in the clouds :cloud: 🤖 💬 :cloud:")
+st.markdown('''Check it out on <a href="https://github.com/tjoab/captionaize" style="text-decoration: none;">:blue-background[:blue[GitHub]]</a>''',  unsafe_allow_html=True)
 st.divider()
 
 st.subheader('How to use?')
