@@ -22,6 +22,8 @@ Alternatively, the app can be run by cloning this repo and working with it local
   source venv/bin/activate
   ```
 - Install dependencies `pip3 install -r requirements.txt`
+  
+  (Streamlit dependency not needed if you don't plan on running the streamlit app locally - can be removed)
 - Create a new main script file
 - Import the `helper.py` module to your main script
 - Add the following to your main script
