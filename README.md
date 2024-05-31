@@ -56,3 +56,19 @@ Alternatively, the app can be run by cloning this repo and working with it local
   parseResponse(response, platform)
   
   ```
+
+## 🛠️ Built With
+
+  - [Google Gemini 1.5 Flash](https://deepmind.google/technologies/gemini/flash) - The LLM used
+  - [Streamlit](https://streamlit.io/) - The UI library used - hosting also done on their servers
+ 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## ☕ Support
+
+If you find this project helpful, you can support me by buying a coffee:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?style=social&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/tjoab)
+
